@@ -1,0 +1,25 @@
+{
+  "name": "introducing-ramda",
+  "version": "1.0.0",
+  "description": "following intro to ramda docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinelanguage/introducing-ramda.git"
+  },
+  "keywords": [
+    "ramda",
+    "functional",
+    "curry",
+    "javascript"
+  ],
+  "author": "Adam Winick",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sinelanguage/introducing-ramda/issues"
+  },
+  "homepage": "https://github.com/sinelanguage/introducing-ramda#readme"
+}
