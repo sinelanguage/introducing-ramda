@@ -28,5 +28,9 @@
   "homepage": "https://github.com/sinelanguage/introducing-ramda#readme",
   "devDependencies": {
     "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "curry": "^1.2.0",
+    "ramda": "^0.24.1"
   }
 }
